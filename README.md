@@ -1,4 +1,3 @@
-A
 # ImageProcessor
 
 ImageProcessor is a .NET 8.0 console application for processing images efficiently. It leverages the powerful [Magick.NET](https://github.com/dlemstra/Magick.NET) library for advanced image manipulation and [BenchmarkDotNet](https://benchmarkdotnet.org/) for performance benchmarking. The project is designed to be cross-platform and easy to extend for various image processing tasks.
