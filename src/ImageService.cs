@@ -14,7 +14,7 @@ public static class ImageService
         {
             uint targetWidth = width ?? 0;
             uint targetHeight = height ?? 0;
-            
+
             image.Resize(targetWidth, targetHeight);
 
             image.Quality = 80;

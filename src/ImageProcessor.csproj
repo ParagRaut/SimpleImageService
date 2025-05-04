@@ -12,4 +12,8 @@
     <PackageReference Include="Magick.NET-Q8-x64" Version="14.6.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="static\*" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
 </Project>
